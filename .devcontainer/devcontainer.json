@@ -1,0 +1,8 @@
+// devcontainer.json
+[
+{
+  "image": "Codespace_LinuxDev_template:latest",
+  "dockerFile": "Dockerfile.dev",
+  "extensions": ["ms-vscode.vscode-typescript-tslint-plugin"]
+}
+]
